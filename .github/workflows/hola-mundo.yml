@@ -1,4 +1,4 @@
-name: hello-world
+name: hola-mundo
 on:
   workflow_dispatch:
 jobs:
